@@ -2,7 +2,7 @@
 ## translating my name to english: John Peter de Figueiredo 😂😂😂😂
 
 
-- 🔭 I’m currently working as a freelance on the internet, building websites and systems for who hire me!
+- 🔭 I’m currently working as a freelance on the internet, building websites and systems for who hires me!
 - 🌱 I’m currently learning react, java script deeply, node.js, postgree and mysql.
 - 💬 Ask me about whatever you want, I'm very open and I'll try to respond you if I know the question.
 - 📫 How to reach me: My linkedin is a good option to get in touch, or you can try to send me an email: defigueiredojoaopedro@gmail.com (my adress)
