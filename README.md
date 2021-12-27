@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋 My name is João Pedro de Figueiredo
+## translating my name to english: Jonh Peter de Figueiredo 😂😂😂😂
 
-<!--
-**figueiredojoaopedro/figueiredojoaopedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working as a freelance on the internet, building websites and systems for who hire me!
+- 🌱 I’m currently learning react, java script deeply, node.js, postgree and mysql.
+- 💬 Ask me about whatever you want, I'm very open and I'll try to respond you if I know the question.
+- 📫 How to reach me: My linkedin is a good option to get in touch, or you can try to send me an email: defigueiredojoaopedro@gmail.com (my adress)
+- ⚡ Fun fact: My Dog's name is Duck!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+<div>
+  <a href="https://github.com/figueiredojoaopedro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=figueiredojoaopedro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <hr>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=figueiredojoaopedro&layout=compact&langs_count=16&theme=dark"/>
+</div>
