@@ -1,5 +1,5 @@
 # Hi there 👋 My name is João Pedro de Figueiredo
-## translating my name to english: Jonh Peter de Figueiredo 😂😂😂😂
+## translating my name to english: John Peter de Figueiredo 😂😂😂😂
 
 
 - 🔭 I’m currently working as a freelance on the internet, building websites and systems for who hire me!
